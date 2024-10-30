@@ -267,7 +267,7 @@
 For integrating TAF to XRAY / JIRA you need to
 * Enter your jira token in TOKEN variable in .env file.
  ```
-    TOKEN='OhogxPBYrvR81oA4tP5X05bxsQITCIe76hCX'
+    TOKEN=''
    ```
 * Update your package.json with the following command for uploading test cases into xRay:
 
